@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int main() {
     long long light[3], N, a, b, ans = 0;
